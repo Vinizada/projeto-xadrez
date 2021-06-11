@@ -39,11 +39,8 @@ public class application {
 				sc.nextLine();
 			}
 			
-			
 		}
-		
-		
-		
+			
 	}
 
 }
