@@ -20,6 +20,12 @@ public class Position {
 		return column;
 	}
 	
+	public void setRow(Integer row) {
+		this.row = row;
+	}
+	public void setColumn(Integer column) {
+		this.column = column;
+	}
 	@Override
 	
 	public String toString() {	
